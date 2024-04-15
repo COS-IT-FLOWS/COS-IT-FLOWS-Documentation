@@ -1,4 +1,4 @@
-# HOW TO CONTRIBUTE
+# How to Contribute
 
 Thank you for your interest in contributing to our impact-based flood forecasting system! Your contributions help improve the accuracy and effectiveness of our forecasts, ultimately helping communities better prepare for and respond to flooding events.
 

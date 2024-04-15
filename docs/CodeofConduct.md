@@ -1,5 +1,5 @@
 
-# CODE OF CONDUCT
+# Code of Conduct
 
 ## Our Pledge
 

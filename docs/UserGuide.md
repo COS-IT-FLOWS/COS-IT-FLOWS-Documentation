@@ -1,4 +1,4 @@
-# WORKING WITH GIT AND GITHUB
+# Working with GIT and GITHUB
 
 ## Introduction
 
