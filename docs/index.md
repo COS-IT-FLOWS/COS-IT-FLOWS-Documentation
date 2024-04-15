@@ -8,7 +8,7 @@
 
 ----------
 
-This repository serves as the public source code repository of the **Community Sourced Impact Based Flood Forecast and Early Warning System**, termed **CoS-IT-FloWS**. CoS-IT-FloWS documentation can be read on the CoS-IT-FloWS  documentation website.
+This repository serves as the public source code repository of the **Community Sourced Impact Based Flood Forecast and Early Warning System**, termed **CoS-IT-FloWS**. CoS-IT-FloWS documentation can be read on the [CoS-IT-FloWS  documentation website](https://readthedocs.org/projects/cos-it-flows-documentation/).
 
 CoS-IT-FloWS is being developed at EQUINOCT CoSMoS under the UNICEF Office of Innovation's Venture Capital Fund, that supports and guides their inaugural climate cohort of 8 startups from around the world to build Open Source tech solutions for sustainable climate action.
 All development activity is coordinated through the CoS-IT-FloWS github page, where you can also find all archived, current, beta, and development versions of the system.
