@@ -2,7 +2,7 @@
 
 Regardless of the release type (major, minor, patch), the CoS-IT-FloWS system release process follows this roadmap.
 
-1. Identification of features and fixes to be included in the release. This is coordinated through the VIC github page.
+1. Identification of features and fixes to be included in the release. This is coordinated through the github page.
 2. Features and fixes are added to the appropriate branch (develop or hotfix) via Github pull requests.
 3. The model is tested using the CoS-IT-FloWS test framework. Each of the following tests should be run and verified for any release.
 
