@@ -19,12 +19,12 @@ CoS-IT-FloWS is a Decision Support System Dashboard that uses real time monitori
 
 ## Features
 
-1. Local Self Government level flood vulnerability
-2. Real-time community level climate and hydrological data
-3. River basin level flood monitoring system
-4. Impact based Flood Forecast
-5. Multi-hazard warnings
-6. Customizable dashboard depending on use-case
+1. Hyper local Flood Inundation Mapping using bi-directional LSTM-CNN model.
+2. GATHER: community data collection app made using Flutter framework.
+3. River basin impact based level flood forecasting system.
+4. Multi-hazard warnings.
+5. Customizable dashboard depending on use-case.
+6. Flood prediction leveraging Variable Infilteration Capacity Model <!-- link -->.
 
 ## Tech Stack
 

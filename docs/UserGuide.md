@@ -15,15 +15,19 @@
 * bug and issue tracking, and
 * distribution of official and bleeding edge releases of the model source code.
 
+## CoS-IT-FloWS for Non-Developers
+
+In general, if you are only going to be using the system and not working directly on the source code, you can just download the working system from CoS-IT-FloWS github page. <!-- Additional archived tags and releases (including all previous versions) are available here.-->
+
 ### CoS-IT-FloWS for Developers
 
 If you plan on contributing to developing the system or would like a structured way to incorporate updates to the CoS-IT-FloWS source code, we encourage you to use Git. The following sections are designed to get you started using git and working with the CoS-IT-FloWS source code repository.
 
-### Git Resources
+### GIT Resources
 
-If you are not familiar with Git yet, we encourage you to get acquainted with it before you start working with the CoS-IT-FloWS source code. A few minutes of learning about Git will go along way in helping you manage your code development.
+If you are not familiar with Git yet, we encourage you to get acquainted with it before you start working with the CoS-IT-FloWS source code. A few minutes of learning about GIT will go along way in helping you manage your code development.
 
-There are a number of good Git learning resources that will provide a basic introduction to the version control system.
+There are a number of good GIT learning resources that will provide a basic introduction to the version control system.
 
 * <http://git-scm.com/about>
 * <https://help.github.com/>
