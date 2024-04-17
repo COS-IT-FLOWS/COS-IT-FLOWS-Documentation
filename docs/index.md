@@ -22,12 +22,16 @@
 
 This repository serves as the public source code repository of the **Community Sourced Impact Based Flood Forecast and Early Warning System**, termed **CoS-IT-FloWS**.
 
-CoS-IT-FloWS is being developed at EQUINOCT Community Sourced Modelling Solutions under the UNICEF Office of Innovation's Venture Capital Fund, that supports and guides their inaugural climate cohort of 8 startups from around the world to build Open Source tech solutions for sustainable climate action.
-All development activity is coordinated through the CoS-IT-FloWS github page, where you can also find all archived, current, beta, and development versions of the system.
+CoS-IT-FloWS is being developed at EQUINOCT Community Sourced Modelling Solutions, hereafter referred to as EQUINOCT, under the UNICEF Office of Innovation's Venture Capital Fund that supports and guides their inaugural climate cohort of 8 startups from around the world to build Open Source technological solutions for sustainable climate action.
+All development activity is coordinated through the [CoS-IT-FloWS github page](https://github.com/COS-IT-FLOWS), where you can also find all archived, current, beta, and development versions of the system.
 
 ## Overview
 
-CoS-IT-FloWS is a Decision Support System Dashboard that uses real time monitoring to provide hyper local flood forecasting and to issue multi-hazard warnings on a local self government level. It aims at leveraging metereological and infrastructural data such as rainfall, groundwater and reservoir levels to accurately predict region-wise flood probability, utilising both hydrological and machine learning approaches.
+<!-- 
+1. Add limitations of existing forecast systems and how our system is unique and overcomes those issues 
+2. Add brief about EQUINOCT
+-->
+CoS-IT-FloWS is a Decision Support System [Model](./Model) that uses real time monitoring to provide river basin level impact based flood forecasting and multi-hazard warnings. It aims at leveraging metereological and infrastructural data such as rainfall, groundwater and reservoir levels to accurately predict region-wise flood probability, utilising both hydrological and machine learning approaches for a hyper local forecast system.
 
 ## Open Source
 
@@ -41,12 +45,14 @@ Instructions for using Git and GitHub to access the CoS-IT-FloWS code and contri
 
 ## Key Features
 
-1. Hyper local Flood Inundation Mapping using bi-directional LSTM-CNN model.
-2. GATHER: community data collection app made using Flutter framework.
-3. River basin impact based level flood forecasting system.
+1. Community weather data collection app "Gather" made using Flutter framework.
+
+2. Real Time Rainfall Monitoring through web-based data visualisation dashboard application.
+(using ML models?) <!--FRAME!-->
+
+3. River basin level impact based flood forecasting system.
+
 4. Multi-hazard warnings.
-5. Customizable dashboard depending on use-case.
-6. Flood prediction leveraging Variable Infilteration Capacity Model <!-- link -->.
 
 ## Tech Stack
 
@@ -66,7 +72,7 @@ By placing the original source code archive on GitHub, we hope to encourage a mo
 
 CoS-IT-FloWS has an incremental nature of development due to which not all sections of the code are equally mature and not every combination of system options has been exhaustively tested or is guaranteed to work. While you are more than welcome to use CoS-IT-FloWS in your own research and development undertakings, the system code comes with no guarantees, expressed or implied, as to suitability, completeness, accuracy, and any other claim you would like to make.
 
-If you make use of this system, please acknowledge all references appropriate to the features you used that are cited in the [CoS-IT-FloWS Documentation](https://readthedocs.org/projects/cos-it-flows-documentation/).
+If you make use of this system, please acknowledge all references appropriate to the features you used that are cited in the [References Page](./References.md).
 
 ## License
 
@@ -78,4 +84,4 @@ The CoS-IT-FloWS documentation content is licensed under a [Creative Commons Att
 
 ## Help and Support
 
-If you have any questions, feedback, or suggestions, please feel free to reach out to us . You can raise an issue in the issue tracker.
+If you have any questions, feedback, or suggestions, please feel free to reach out to us at <team@equinoct.com>. You can raise an issue in the issue tracker.

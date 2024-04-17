@@ -14,3 +14,5 @@ Volume 119,
 Pages 1-13,
 ISSN 0964-5691,
 <https://doi.org/10.1016/j.ocecoaman.2015.09.017.>
+
+<!-- ADD AI modelling and News Article links -->
