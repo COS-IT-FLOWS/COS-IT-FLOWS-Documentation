@@ -1,7 +1,7 @@
-# Release RoadMap
+# RoadMap
 
 > **IMPORTANT**:
-> This project is currently in a very early development stage. This roadmap is a roadmap template for future releases.
+> This project is currently in a very early development stage. This roadmap is a template for future releases.
 
 Regardless of the release type (major, minor, patch), the CoS-IT-FloWS system release process follows this roadmap.
 

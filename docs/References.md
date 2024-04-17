@@ -1,4 +1,4 @@
-# Cos-IT-FloWS References
+# References
 
 + Variable Infilteration Capacity (VIC) Model :[Liang et al., 1994, Hamman et al., 2018 for VIC-5](https://vic.readthedocs.io/en/master/Documentation/References/)
 
