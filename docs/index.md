@@ -27,10 +27,8 @@ All development activity is coordinated through the [CoS-IT-FloWS github page](h
 
 ## Overview
 
-<!-- 
-1. Add limitations of existing forecast systems and how our system is unique and overcomes those issues 
-2. Add brief about EQUINOCT
--->
+EQUINOCT is an early stage tech start-up formed in July 2020, that aims at building community data portals in data scarce regions that can facilitate real-time visualisation, analysis,monitoring, and impact-based early warnings of climate change impacts using data sourced from communities through building local community partnerships.
+
 CoS-IT-FloWS is a Decision Support System [Model](./Model) that uses real time monitoring to provide river basin level impact based flood forecasting and multi-hazard warnings. It aims at leveraging metereological and infrastructural data such as rainfall, groundwater and reservoir levels to accurately predict region-wise flood probability, utilising both hydrological and machine learning approaches for a hyper local forecast system.
 
 ## Open Source
@@ -45,14 +43,15 @@ Instructions for using Git and GitHub to access the CoS-IT-FloWS code and contri
 
 ## Key Features
 
-1. Community weather data collection app "Gather" made using Flutter framework.
+1. Community weather data collection app "Gather" : to collect hyper local data and made using Flutter framework.
 
-2. Real Time Rainfall Monitoring through web-based data visualisation dashboard application.
-(using ML models?) <!--FRAME!-->
+2. Web-Based Real-Time Rainfall and Weather Monitoring Dashboard : utilizing AI models for dynamic visualisation and interactive maps to provide insights into climate data trends and forecasting.
 
-3. River basin level impact based flood forecasting system.
+3. Open Source Backend Code: Promoting transparency and collaboration for users to leverage our ML-based climate analytics.
 
-4. Multi-hazard warnings.
+4. River basin level impact based flood forecasting system.
+
+5. Multi-hazard warning system: issued to communities and local authorities alike.
 
 ## Tech Stack
 

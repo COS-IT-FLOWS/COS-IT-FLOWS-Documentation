@@ -1,5 +1,8 @@
 # Release RoadMap
 
+> **IMPORTANT**:
+> This project is currently in a very early development stage. This roadmap is a roadmap template for future releases.
+
 Regardless of the release type (major, minor, patch), the CoS-IT-FloWS system release process follows this roadmap.
 
 1. Identification of features and fixes to be included in the release. This is coordinated through the github page.
@@ -20,8 +23,8 @@ Regardless of the release type (major, minor, patch), the CoS-IT-FloWS system re
 
 5. Make the release!
     + Merge the `release` branch into the `master` branch.
-    + Create the tag. This is best done on the command line as `git tag -f -a COS-IT-FLOWS.5.1.2 -m 'release tag of COS-IT-FLOWS 5.1.2, bug fix update for this example`.
+    + Create the tag. This is best done on the command line as `git tag -f -a COS-IT-FLOWS.0.1 -m 'release tag of COS-IT-FLOWS.0.1, bug fix update for this example`.
     + Publish the release on Github.
-    + Update the VIC documentation and Readme files with the releases Zenodo DOI (e.g. DOI).
+    + Update the CoS-IT-FloWS documentation and Readme files.
     + Update the `develop` branch with the changes from the `master` branch.
     + Reset the version strings in the `develop` branch.
