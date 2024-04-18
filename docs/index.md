@@ -27,9 +27,9 @@ All development activity is coordinated through the [CoS-IT-FloWS github page](h
 
 ## Overview
 
-EQUINOCT is an early stage tech start-up formed in July 2020, that aims at building community data portals in data scarce regions that can facilitate real-time visualisation, analysis,monitoring, and impact-based early warnings of climate change impacts using data sourced from communities through building local community partnerships.
+EQUINOCT is an early stage tech start-up formed in July 2020, that aims at building community data portals in data scarce regions that can facilitate real-time visualization, analysis,monitoring, and impact-based early warnings of climate change impacts using data sourced from communities through building local community partnerships.
 
-CoS-IT-FloWS is a Decision Support System [Model](./Model) that uses real time monitoring to provide river basin level impact based flood forecasting and multi-hazard warnings. It aims at leveraging metereological and infrastructural data such as rainfall, groundwater and reservoir levels to accurately predict region-wise flood probability, utilising both hydrological and machine learning approaches for a hyper local forecast system.
+CoS-IT-FloWS is a Decision Support System [Model](./Model) that uses real time monitoring to provide river basin level impact based flood forecasting and multi-hazard warnings. It aims at leveraging meterological and infrastructural data such as rainfall, groundwater and reservoir levels to accurately predict region-wise flood probability, utilizing both hydrological and machine learning approaches for a hyper local forecast system.
 
 ## Open Source
 
@@ -45,7 +45,7 @@ Instructions for using Git and GitHub to access the CoS-IT-FloWS code and contri
 
 1. Community weather data collection app "Gather" : to collect hyper local data and made using Flutter framework.
 
-2. Web-Based Real-Time Rainfall and Weather Monitoring Dashboard : utilizing AI models for dynamic visualisation and interactive maps to provide insights into climate data trends and forecasting.
+2. Web-Based Real-Time Rainfall and Weather Monitoring Dashboard : utilizing AI models for dynamic visualization and interactive maps to provide insights into climate data trends and forecasting.
 
 3. Open Source Backend Code: Promoting transparency and collaboration for users to leverage our ML-based climate analytics.
 
