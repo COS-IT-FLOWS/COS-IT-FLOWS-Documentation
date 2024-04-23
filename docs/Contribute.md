@@ -38,7 +38,7 @@ Thank you for your interest in contributing to our impact-based flood forecastin
 
 10. **Participate in Code Review**: Participate in the code review process by addressing any feedback or suggestions provided by reviewers.
 
-11. **Merge Your Pull Request**: Once your pull request has been approved, it will be merged into the main branch of the original repository.
+11. **Merge Your Pull Request**: Once your pull request has been approved by admin, it will be merged into the main branch of the original repository.
 
 ## Contribution Guidelines
 
