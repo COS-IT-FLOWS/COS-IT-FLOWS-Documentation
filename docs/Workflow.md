@@ -16,7 +16,7 @@ For most developers, branching off the develop branch is the best choice when de
 
 ## Support Branches
 
-Often times VIC development is driven by projects that require very specific modifications to the code that would not be appropriate for inclusion in a major release. The use of support branches allows for the continued development of the trunk while "supporting" project specific versions of the VIC code. Instead of completely tossing these changes, we put the project's version of VIC in a support branch and continue developing. Support branches are essentially branches that are not expected to merge back into the development branch.
+Often times CoS-IT-FloWS development is driven by projects that require very specific modifications to the code that would not be appropriate for inclusion in a major release. The use of support branches allows for the continued development of the trunk while "supporting" project specific versions of the CoS-IT-FloWS code. Instead of completely tossing these changes, we put the project's version of CoS-IT-FloWS in a support branch and continue developing. Support branches are essentially branches that are not expected to merge back into the development branch.
 
 ## Admin Branches
 
