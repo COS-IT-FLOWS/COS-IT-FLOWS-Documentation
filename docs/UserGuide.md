@@ -8,7 +8,7 @@
 * facilitate parallel development between multiple system developers and research projects,
 * encourage peer code review as well as issue and bug tracking
 
-[Github](https://github.com/) is a web-based [Git](https://git-scm.com) repository hosting serCoS-IT-FloWSe. We use [Github](https://github.com/) for:
+[Github](https://github.com/) is a web-based [Git](https://git-scm.com) repository hosting services. We use [Github](https://github.com/) for:
 
 * collaboration and discussion on CoS-IT-FloWS development issues,
 * code peer review,
