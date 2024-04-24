@@ -14,4 +14,6 @@ Fostering inclusive and integrated strategies, leveraging hyper-local level data
 - Collect data using manual and automatic instruments such as rain gauge, river water level gauge, and groundwater levels gauges.
 - Develop an information dashboard viz “CoS-IT-FloWS”
 
-## Community Statement
+## Licensing Strategy
+
+Our current business model aims to utilize 2 different versions of the product, an initial community version and a revenue generating proprietary version that provides more extensive features. We are currently building the community version with a permissive license(MIT). One reason behind going with a permissive license is the ability to move to a copyleft license at a later point.
