@@ -3,20 +3,23 @@
 | CoS-iT-FloWS Links & Badges              |                                                                             |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | CoS-it-FloWS Documentation      | [![Documentation Status](https://readthedocs.org/projects/cos-it-flows-documentation/badge/?version=latest)](https://cos-it-flows-documentation.readthedocs.io/en/latest/?badge=latest)        |
-| License                | [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/UW-Hydro/VIC/master/LICENSE.txt)                                                              |
+| License                | [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/COS-IT-FLOWS/cositflows_app/main/LICENSE)                                                              |
 <!-- | Current Release DOI    | [![DOI](https://zenodo.org/badge/7766/UW-Hydro/VIC.svg)](https://zenodo.org/badge/latestdoi/7766/UW-Hydro/VIC) | -->
 
 ----------
 
 ## Table of Contents
 
-+ [About](#about)
-+ [Overview](#overview)
-+ [Key Features](#key-features)
-+ [Tech Stack](#tech-stack)
-+ [Usage](#usage)
-+ [License](#license)
-+ [Help and Support](#help-and-support)
+- [Home](#home)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Overview](#overview)
+  - [Open Source](#open-source)
+  - [Key Features](#key-features)
+  - [Tech Stack](#tech-stack)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Help and Support](#help-and-support)
 
 ## About
 
